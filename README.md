@@ -37,12 +37,12 @@
 ---
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=ramu1623&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ramu1623&show_icons=true)
 
 ---
 
 ## 🔥 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramu1623&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramu1623&layout=compact)
 
 ---
 
