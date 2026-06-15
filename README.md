@@ -5,7 +5,7 @@
 ---
 
 ## 🙋‍♂️ About Me:
-- 🎓 B.Tech CSE Student (Pre-Final Year)
+- 🎓 B.Tech CSE Student (Final Year)
 - 💻 MERN Stack Developer
 - 🌱 Currently building projects using MERN stack
 
