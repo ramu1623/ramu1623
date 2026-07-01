@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 - 🎓 B.Tech CSE Student (Final Year)
-- 💻 MERN Stack Developer
+- 💻 Full Stack Developer
 - 🌱 Currently building projects using MERN stack
 
 ---
@@ -49,5 +49,5 @@
 
 ## 🎯 Current Focus:
 - 🚀 Building projects using MERN stack
-- 📦 Improving backend using Node.js
+- 📦 Improving development skills
 - 📚 Improving problem-solving skills
